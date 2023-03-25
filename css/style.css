@@ -225,6 +225,7 @@ h6 {
     font-weight: 700;
     letter-spacing: 3px;
     text-transform: capitalize;
+    margin-top: 60px;
 }
 
 .header .carousel-content p {
@@ -857,6 +858,11 @@ h6 {
     font-size: 18px;
     font-weight: 700;
     margin-bottom: 10px;
+}
+
+.img-fluid{
+    max-height: 440px!important;
+
 }
 
 .team .team-item .team-info p {
